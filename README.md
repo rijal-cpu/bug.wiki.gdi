@@ -1,1 +1,0 @@
-# bug.wiki.gdi
